@@ -1,2 +1,2 @@
 seed      = 20
-instances = 2
+instances = 3
