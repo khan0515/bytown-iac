@@ -1,0 +1,4 @@
+urls = [
+  "http://localhost:8520",
+  "http://localhost:8521",
+]
