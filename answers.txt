@@ -1,0 +1,4 @@
+Q1: The state mismatched what was configured in our code, terraform created the deleted container to match code config.Changes must be done by the code or else the next apply will always change the configuration to what is specified in the code.
+Q2: Because it is the record file containing ids,settings, and security settings like passowrds and keys. Commiting them would be exposing our sensitive settings.
+Q3: Terraform builds infrastructure, and ansible configures already built servers. Example Terraform builds vms, containers. Ansible configures them by installing packages, and creating config files.
+Q4: Cloud provider secures physical infrastructure like servers, we secure ssh keys and passowrds.
